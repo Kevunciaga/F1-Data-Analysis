@@ -13,3 +13,15 @@ f1-data-analysis/
 │   └── lap_time_plot.png
 ├── requirements.txt           # List of Python packages used
 └── LICENSE                    # Optional: license for open-source sharing
+
+
+## Projects
+- In the works...
+
+## Tools Used
+- Python, NumPy, pandas, Scikit Learn, matplotlib
+- Jupyter notebooks
+
+## Goals
+- Build a portfolio for F1 data analysis
+- Learn race analytics through a hands-on simulation approach
